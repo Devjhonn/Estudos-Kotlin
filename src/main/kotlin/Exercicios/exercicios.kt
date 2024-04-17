@@ -6,7 +6,7 @@ import kotlin.time.measureTime
 import kotlin.collections.mutableListOf as mutableListOf
 
 fun main() {
-    SomaDigitosNumero()
+
 }
 
 
@@ -304,3 +304,5 @@ fun SomaDigitosNumero(){
 
 
 }
+
+    
