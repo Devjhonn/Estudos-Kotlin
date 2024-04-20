@@ -9,6 +9,6 @@ fun main() {
 
     with(pessoa){
         this.acordar()      //bem util, imagina uma variavel grande
-        andar()             // pose ser usado com o "this" ou sem
+        andar()             // pode ser usado com o "this" ou sem
     }                       //não tem diferença de performance
 }
